@@ -1,5 +1,5 @@
 # Line-follower
-This is a basic line follower bot made using 5 IR sensors. Thee bot uses a simple algorith to follow a Black over white line. 
+This is a basic line follower bot made using 5 IR sensors. The bot uses a simple algorithm to follow a Black over White line. 
 
 # Components Used:
 1. 5 IR sensors
